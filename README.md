@@ -45,6 +45,7 @@
 * [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
+* [Bitfalls](https://bitfalls.com) - Consultancy and dapp development, blockchain education
 
 ## Charity and Tipping
 
@@ -57,6 +58,8 @@
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
+* [BlockAndMortar.io](https://blockandmortar.io) - Ethereum full nodes on micro-PCs, plug and play, sold at cost
+* [Coinevents.io](https://coinevents.io) - Event tickets, sell your event's tickets for crypto (including DAI)
 
 ## Finance, Investment, Trading
 
@@ -72,6 +75,7 @@
 * [PoolTogether](https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
 * [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
+* [Defi Academy](https://defi.academy) - Localized DeFi workshops in Croatian and English, moving globally according to demand
 
 ## Freelancers
 
